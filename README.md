@@ -3,7 +3,7 @@ Experiments in password hashing
 
 ## Method
 
-The hashing algorithm choice is PBKDF2, with SHA256 (310~320k iterations). It's ([OWASP and NIST recommended](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#pbkdf2)).
+The hashing algorithm choice is PBKDF2, with SHA256 (310~320k iterations). It's [OWASP and NIST recommended](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html#pbkdf2).
 
 The example uses [this implementation](https://docs.microsoft.com/pt-br/aspnet/core/security/data-protection/consumer-apis/password-hashing?view=aspnetcore-6.0).
 
