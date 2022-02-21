@@ -19,7 +19,7 @@ The example uses [this implementation](https://docs.microsoft.com/pt-br/aspnet/c
 - `System.Convert.FromBase64String` converts base64 string to string
 - `System.Security.Cryptography.RandomNumberGenerator.GetInt32` generates random int
 - `System.Security.Cryptography.RandomNumberGenerator.GetBytes` generates random byte array
-- `System.Security.Cryptography.Rfc2898DeriveBytes` apply hash algorith with any number of iterations, and generates salt byte array and hash byte array
+- `System.Security.Cryptography.Rfc2898DeriveBytes` applies hash algorith with any number of iterations, and generates salt byte array and hash byte array
 
 ## Output example
 
