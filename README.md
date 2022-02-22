@@ -50,3 +50,7 @@ Typed...: My$upeR Secr37 _123✨
 Hashed..: UpUwdJegK0iu622USvP8+zMoIaH/xfcaRzE8QpcmipFCLWpDBgmrEIHkvhHlyyXpiWxTJOc/bF4npFkNLg9dQQ==
 The user is ok to log in.
 ```
+
+## Better implementation
+
+There's a better implementation [here](https://github.com/ermogenes/saltedpassword). The v1 uses this, the v2+ are improved.
